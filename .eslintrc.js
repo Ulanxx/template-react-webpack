@@ -11,7 +11,7 @@ module.exports = {
     'prettier',
   ],
   parserOptions: {
-    project: './tsconfig.json',
+    project: './ tsconfig.eslint.json',
   },
   rules: {
     // 在这里添加需要覆盖的规则
