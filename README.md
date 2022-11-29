@@ -1,1 +1,1 @@
-# boilerplate-react-vite
+# template-react-webpack
